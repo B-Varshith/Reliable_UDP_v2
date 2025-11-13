@@ -6,6 +6,5 @@ a.log
 client
 Makefile
 README.md
-reliable_udp_presentation.html
 server
 ui_electron
