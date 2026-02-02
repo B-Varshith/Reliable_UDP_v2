@@ -88,5 +88,3 @@ No license file is included in this repository. If you want to publish this proj
 Use the repository Issues page for bug reports or feature requests.
 
 ---
-
-Short and focused — if you'd like, I can expand sections (detailed protocol notes, examples, or a short quickstart script).
